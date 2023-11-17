@@ -19,3 +19,6 @@ Cisneros Ortega Angel Eduardo
 
 ## Tabla Marcas
 ![marcas](https://github.com/aecortega/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-16%20225222.png)
+![tbl_marcas](https://github.com/aecortega/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-17%20113316.png)
+
+
