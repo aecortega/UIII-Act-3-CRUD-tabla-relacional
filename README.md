@@ -10,4 +10,4 @@ Cisneros Ortega Angel Eduardo
 ## Tabla inventarios
 ![inventarios](https://github.com/aecortega/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-16%20225233.png)
 ## Tabla Marcas
-![marcas](https://github.com/aecortega/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-16%20225233.png)
+![marcas](https://github.com/aecortega/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-16%20225222.png)
