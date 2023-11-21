@@ -24,20 +24,18 @@ include_once("../../config/conexion.php")
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="mi-menu">
-                    <ul class="navbar-nav">
+                <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo base_url; ?>">INICIO</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link"
-                                href="<?php echo base_url; ?>Formularios/productos/index.php">PRODUCTOS</a>
+                            <a class="nav-link" href="<?php echo base_url; ?>Formularios/productos/index.php">PRODUCTO</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link"
-                                href="<?php echo base_url; ?>Formularios/categorias/index.php">CATEGORIAS</a>
+                            <a class="nav-link" href="<?php echo base_url; ?>Formularios/categorias/index.php">MARCA</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url; ?>Formularios/marcas/index.php">MARCAS</a>
+                            <a class="nav-link" href="<?php echo base_url; ?>Formularios/marcas/index.php">INVENTARIO</a>
                         </li>
                     </ul>
                 </div>
